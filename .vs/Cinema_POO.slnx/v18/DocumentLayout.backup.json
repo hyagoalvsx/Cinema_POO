@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|c:\\users\\hyago\\source\\repos\\cinema_poo\\cinema_poo\\dao\\sessaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|solutionrelative:cinema_poo\\dao\\sessaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|c:\\users\\hyago\\source\\repos\\cinema_poo\\cinema_poo\\dao\\saladao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|solutionrelative:cinema_poo\\dao\\saladao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|c:\\users\\hyago\\source\\repos\\cinema_poo\\cinema_poo\\dao\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|solutionrelative:cinema_poo\\dao\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|c:\\users\\hyago\\source\\repos\\cinema_poo\\cinema_poo\\dao\\filmedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|solutionrelative:cinema_poo\\dao\\filmedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|c:\\users\\hyago\\source\\repos\\cinema_poo\\cinema_poo\\dao\\funcionariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|solutionrelative:cinema_poo\\dao\\funcionariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|c:\\users\\hyago\\source\\repos\\cinema_poo\\cinema_poo\\dao\\generodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|solutionrelative:cinema_poo\\dao\\generodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|c:\\users\\hyago\\source\\repos\\cinema_poo\\cinema_poo\\interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|solutionrelative:cinema_poo\\interfaces\\idao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|c:\\users\\hyago\\source\\repos\\cinema_poo\\cinema_poo\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,6 +43,10 @@
       "RelativeMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|solutionrelative:cinema_poo\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|c:\\users\\hyago\\source\\repos\\cinema_poo\\cinema_poo\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|solutionrelative:cinema_poo\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|c:\\users\\hyago\\source\\repos\\cinema_poo\\cinema_poo\\models\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|solutionrelative:cinema_poo\\models\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|c:\\users\\hyago\\source\\repos\\cinema_poo\\cinema_poo\\utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|solutionrelative:cinema_poo\\utilitarios\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|c:\\users\\hyago\\source\\repos\\cinema_poo\\cinema_poo\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|solutionrelative:cinema_poo\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B41AC13-C406-116D-53A4-2FB743E4513D}|Cinema_POO\\Cinema_POO.csproj|c:\\users\\hyago\\source\\repos\\cinema_poo\\cinema_poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,89 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Conexao.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Utilitarios\\Conexao.cs",
-              "RelativeDocumentMoniker": "Cinema_POO\\Utilitarios\\Conexao.cs",
-              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Utilitarios\\Conexao.cs",
-              "RelativeToolTip": "Cinema_POO\\Utilitarios\\Conexao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T05:46:08.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Genero.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Genero.cs",
-              "RelativeDocumentMoniker": "Cinema_POO\\Models\\Genero.cs",
-              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Genero.cs",
-              "RelativeToolTip": "Cinema_POO\\Models\\Genero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T05:37:22.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Sessao.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Sessao.cs",
-              "RelativeDocumentMoniker": "Cinema_POO\\Models\\Sessao.cs",
-              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Sessao.cs",
-              "RelativeToolTip": "Cinema_POO\\Models\\Sessao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T05:23:32.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Sala.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Sala.cs",
-              "RelativeDocumentMoniker": "Cinema_POO\\Models\\Sala.cs",
-              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Sala.cs",
-              "RelativeToolTip": "Cinema_POO\\Models\\Sala.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T05:21:32.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Filme.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Filme.cs",
-              "RelativeDocumentMoniker": "Cinema_POO\\Models\\Filme.cs",
-              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Filme.cs",
-              "RelativeToolTip": "Cinema_POO\\Models\\Filme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T05:17:38.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Funcionario.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Funcionario.cs",
-              "RelativeDocumentMoniker": "Cinema_POO\\Models\\Funcionario.cs",
-              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Funcionario.cs",
-              "RelativeToolTip": "Cinema_POO\\Models\\Funcionario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T05:02:27.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "Cinema_POO\\Models\\Cliente.cs",
@@ -141,13 +87,91 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDao.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Interfaces\\IDao.cs",
+              "RelativeDocumentMoniker": "Cinema_POO\\Interfaces\\IDao.cs",
+              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Interfaces\\IDao.cs",
+              "RelativeToolTip": "Cinema_POO\\Interfaces\\IDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T06:24:10.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SessaoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\DAO\\SessaoDAO.cs",
+              "RelativeDocumentMoniker": "Cinema_POO\\DAO\\SessaoDAO.cs",
+              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\DAO\\SessaoDAO.cs",
+              "RelativeToolTip": "Cinema_POO\\DAO\\SessaoDAO.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T06:15:52.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\DAO\\SalaDAO.cs",
+              "RelativeDocumentMoniker": "Cinema_POO\\DAO\\SalaDAO.cs",
+              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\DAO\\SalaDAO.cs",
+              "RelativeToolTip": "Cinema_POO\\DAO\\SalaDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T06:15:29.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GeneroDAO.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\DAO\\GeneroDAO.cs",
+              "RelativeDocumentMoniker": "Cinema_POO\\DAO\\GeneroDAO.cs",
+              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\DAO\\GeneroDAO.cs",
+              "RelativeToolTip": "Cinema_POO\\DAO\\GeneroDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T06:08:52.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuncionarioDAO.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\DAO\\FuncionarioDAO.cs",
+              "RelativeDocumentMoniker": "Cinema_POO\\DAO\\FuncionarioDAO.cs",
+              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\DAO\\FuncionarioDAO.cs",
+              "RelativeToolTip": "Cinema_POO\\DAO\\FuncionarioDAO.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T06:03:11.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilmeDAO.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\DAO\\FilmeDAO.cs",
+              "RelativeDocumentMoniker": "Cinema_POO\\DAO\\FilmeDAO.cs",
+              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\DAO\\FilmeDAO.cs",
+              "RelativeToolTip": "Cinema_POO\\DAO\\FilmeDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T06:11:34.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ClienteDAO.cs",
               "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\DAO\\ClienteDAO.cs",
               "RelativeDocumentMoniker": "Cinema_POO\\DAO\\ClienteDAO.cs",
               "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\DAO\\ClienteDAO.cs",
               "RelativeToolTip": "Cinema_POO\\DAO\\ClienteDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-06T04:57:52.957Z",
               "EditorCaption": ""
@@ -155,6 +179,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Filme.cs",
+              "RelativeDocumentMoniker": "Cinema_POO\\Models\\Filme.cs",
+              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Filme.cs",
+              "RelativeToolTip": "Cinema_POO\\Models\\Filme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T05:17:38.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Cinema_POO\\Models\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Funcionario.cs",
+              "RelativeToolTip": "Cinema_POO\\Models\\Funcionario.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwF0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T05:02:27.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Genero.cs",
+              "RelativeDocumentMoniker": "Cinema_POO\\Models\\Genero.cs",
+              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Genero.cs",
+              "RelativeToolTip": "Cinema_POO\\Models\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T05:37:22.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sala.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Sala.cs",
+              "RelativeDocumentMoniker": "Cinema_POO\\Models\\Sala.cs",
+              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Sala.cs",
+              "RelativeToolTip": "Cinema_POO\\Models\\Sala.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T05:21:32.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Sessao.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Sessao.cs",
+              "RelativeDocumentMoniker": "Cinema_POO\\Models\\Sessao.cs",
+              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Models\\Sessao.cs",
+              "RelativeToolTip": "Cinema_POO\\Models\\Sessao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T05:23:32.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Utilitarios\\Conexao.cs",
+              "RelativeDocumentMoniker": "Cinema_POO\\Utilitarios\\Conexao.cs",
+              "ToolTip": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Utilitarios\\Conexao.cs",
+              "RelativeToolTip": "Cinema_POO\\Utilitarios\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T05:46:08.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hyago\\source\\repos\\Cinema_POO\\Cinema_POO\\Program.cs",
               "RelativeDocumentMoniker": "Cinema_POO\\Program.cs",
@@ -162,8 +264,7 @@
               "RelativeToolTip": "Cinema_POO\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-06T04:34:26.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-06T04:34:26.203Z"
             }
           ]
         }

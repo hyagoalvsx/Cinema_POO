@@ -1,6 +1,6 @@
 ﻿using Cinema_POO.Models;
-using Cinema_POO.Models;
-using Cinema_POO.Utilitarios;
+using ConexaoBancoDados.Interfaces;
+using ConexaoBancoDados.Utilitarios;
 using MySql.Data.MySqlClient;
 
 namespace ConexaoBancoDados.DAO

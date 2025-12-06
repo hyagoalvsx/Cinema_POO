@@ -8,7 +8,7 @@ namespace Cinema_POO.Models
     {
         public int Id_funcionario { get; set; }
         public string Nome { get; set; }
-        private string Cpf { get; set; }
+        public string Cpf { get; set; }
         public string Cargo { get; set; }
         public decimal Salario { get; set; }
         public DateTime Data_admissao { get; set; }
@@ -90,5 +90,7 @@ namespace Cinema_POO.Models
             if (digito2 != int.Parse(fun_cpf[10].ToString()))
                 throw new Exception("Segundo digito está errado");
         }
+
+     
     }
 }
