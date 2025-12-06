@@ -18,8 +18,10 @@ int opc;
 
 do
 {
+    Console.ForegroundColor = ConsoleColor.Red;
     Console.Clear();
     Console.WriteLine("=== SISTEMA DE CADASTRO CINEMA ===");
+    Console.WriteLine("");
     Console.WriteLine("1. Cadastrar Cliente");
     Console.WriteLine("2. Cadastrar Funcionário");
     Console.WriteLine("3. Cadastrar Gênero");
@@ -354,3 +356,5 @@ do
     }
 
 } while (opc != 0);
+
+
