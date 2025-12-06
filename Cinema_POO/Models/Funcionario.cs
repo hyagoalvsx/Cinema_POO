@@ -10,8 +10,9 @@ namespace Cinema_POO.Models
         public string Nome { get; set; }
         public string Cpf { get; set; }
         public string Cargo { get; set; }
-        public decimal Salario { get; set; }
         public DateTime Data_admissao { get; set; }
+
+        public decimal Salario { get; set; }
 
         
         public Funcionario(string fun_cpf)

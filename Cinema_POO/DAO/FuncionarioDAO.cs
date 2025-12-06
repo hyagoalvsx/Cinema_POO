@@ -11,16 +11,16 @@ namespace ConexaoBancoDados.DAO
         {
             try
             {
-                string sql = @"INSERT INTO Funcionario (nome, cpf, cargo,salario, data_admissao) 
-                               VALUES (@nome, @cpf, @cargo, @salario, @data_admissao)";
+                string sql = @"INSERT INTO Funcionario (nome, cpf, cargo,data_admissao, salario ) 
+                               VALUES (@nome, @cpf, @cargo,@data_admissao, @salario)";
                 using (var conectar = Conexao.Conectar())
                 using (var cmd = new MySqlCommand(sql, conectar))
                 {
                     cmd.Parameters.AddWithValue("@nome", funcionario.Nome);
                     cmd.Parameters.AddWithValue("@cpf", funcionario.Cpf);
                     cmd.Parameters.AddWithValue("@cargo", funcionario.Cargo);
-                    cmd.Parameters.AddWithValue("@salario", funcionario.Salario);
                     cmd.Parameters.AddWithValue("@data_admissao", funcionario.Data_admissao);
+                    cmd.Parameters.AddWithValue("@salario", funcionario.Salario);
                     cmd.ExecuteNonQuery();
                 }
             }
@@ -35,7 +35,7 @@ namespace ConexaoBancoDados.DAO
             try
             {
                 string sql = @"UPDATE Funcionario 
-                               SET nome = @nome, cpf = @cpf, cargo = @cargo, salario = @salario data_admissao = @data_admissao 
+                               SET nome = @nome, cpf = @cpf, cargo = @cargo,data_admissao = @data_admissao, salario = @salario  
                                WHERE id_funcionario = @id_funcionario";
                 using (var conectar = Conexao.Conectar())
                 using (var cmd = new MySqlCommand(sql, conectar))
@@ -43,8 +43,8 @@ namespace ConexaoBancoDados.DAO
                     cmd.Parameters.AddWithValue("@nome", funcionario.Nome);
                     cmd.Parameters.AddWithValue("@cpf", funcionario.Cpf);
                     cmd.Parameters.AddWithValue("@cargo", funcionario.Cargo);
-                    cmd.Parameters.AddWithValue("@salario", funcionario.Salario);
                     cmd.Parameters.AddWithValue("@data_admissao", funcionario.Data_admissao);
+                    cmd.Parameters.AddWithValue("@salario", funcionario.Salario);
                     cmd.Parameters.AddWithValue("@id_funcionario", funcionario.Id_funcionario);
 
                     var linhas = cmd.ExecuteNonQuery();
@@ -96,8 +96,8 @@ namespace ConexaoBancoDados.DAO
                             Nome = dr.GetString("nome"),
                             Cpf = dr.GetString("cpf"),
                             Cargo = dr.GetString("cargo"),
-                            Salario = dr.GetDecimal("salario"),
-                            Data_admissao = dr.GetDateTime("data_admissao")
+                            Data_admissao = dr.GetDateTime("data_admissao"),
+                            Salario = dr.GetDecimal("salario")
                         };
                         lista.Add(f);
                     }
