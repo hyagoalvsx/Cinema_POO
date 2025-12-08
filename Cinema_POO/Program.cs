@@ -44,10 +44,16 @@ do
     Console.WriteLine("20. Listar Vendas");
     Console.WriteLine("21. Listar Ingressos");
     Console.WriteLine("22. Listar Itens de Venda");
+    Console.WriteLine("23. Atualizar cliente");
+    Console.WriteLine("24. Atualizar funcionario ");
+    Console.WriteLine("25. Atualizar gênero");
+    Console.WriteLine("26. Deletar cliente");
+    Console.WriteLine("27. Deletar funcionario");
+    Console.WriteLine("28. Deletar gênero");
     Console.WriteLine("0. Sair do programa");
     Console.WriteLine("");
     Console.Write("Escolha sua opção: ");
-    opc = Convert.ToInt32(Console.ReadLine());
+    opc = int.Parse(Console.ReadLine());
     Console.WriteLine();
 
     // CADASTROS
@@ -337,6 +343,88 @@ do
             Console.WriteLine($"ID: {iv.Id_item}, Quantidade: {iv.Quantidade}, Preço Unitário: {iv.Preco_unitario}, Subtotal: {iv.Subtotal}, ID Produto: {iv.Id_produto}, ID Venda: {iv.Id_venda}");
             
     }
+    else if (opc == 23)
+    {
+        Cliente c = new Cliente();
+
+        Console.Write("ID do Cliente: ");
+        c.Id_cliente = int.Parse(Console.ReadLine());
+
+        Console.Write("Novo nome: ");
+        c.Nome = Console.ReadLine();
+        Console.Write("Novo email: ");
+        c.Email = Console.ReadLine();
+        Console.Write("Novo CPF: ");
+        c.Cpf = Console.ReadLine();
+        Console.Write("Novo telefone: ");
+        c.Telefone = Console.ReadLine();
+
+        clienteDAO.Update(c);
+        Console.WriteLine("Cliente atualizado com sucesso!");
+    }
+
+    else if (opc == 24)
+    {
+        Funcionario f = new Funcionario();
+
+        Console.Write("ID do Funcionário: ");
+        f.Id_funcionario = int.Parse(Console.ReadLine());
+
+        Console.Write("Novo nome: ");
+        f.Nome = Console.ReadLine();
+        Console.Write("Novo CPF: ");
+        f.Cpf = Console.ReadLine();
+        Console.Write("Novo cargo: ");
+        f.Cargo = Console.ReadLine();
+        Console.Write("Nova data admissão (yyyy-mm-dd): ");
+        f.Data_admissao = DateTime.Parse(Console.ReadLine());
+        Console.Write("Novo salário: ");
+        f.Salario = decimal.Parse(Console.ReadLine());
+
+        funcionarioDAO.Update(f);
+        Console.WriteLine("Funcionário atualizado com sucesso!");
+    }
+    else if (opc == 25)
+    {
+        Genero g = new Genero();
+
+        Console.Write("ID do Gênero: ");
+        g.Id_genero = int.Parse(Console.ReadLine());
+
+        Console.Write("Novo nome: ");
+        g.Nome_genero = Console.ReadLine();
+
+        generoDAO.Update(g);
+        Console.WriteLine("Gênero atualizado com sucesso!");
+    }
+
+    else if (opc == 26)
+    {
+        Console.Write("ID do Cliente para deletar: ");
+        int id_cliente = int.Parse(Console.ReadLine());
+
+        clienteDAO.Delete(id_cliente);
+        Console.WriteLine("Cliente deletado com sucesso!");
+    }
+
+    else if (opc == 27)
+    {
+        Console.Write("ID do Funcionário para deletar: ");
+        int id_funcionario = int.Parse(Console.ReadLine());
+
+        funcionarioDAO.Delete(id_funcionario);
+        Console.WriteLine("Funcionário deletado com sucesso!");
+    }
+
+    else if (opc == 28)
+    {
+        Console.Write("ID do Gênero para deletar: ");
+        int id_genero = int.Parse(Console.ReadLine());
+
+        generoDAO.Delete(id_genero);
+        Console.WriteLine("Gênero deletado com sucesso!");
+    }
+
     else if (opc == 0)
     {
         Console.WriteLine("");
