@@ -2,6 +2,8 @@
 using Cinema_POO.Models;
 using ConexaoBancoDados.DAO;
 
+//Criei apenas três métodos de delete e update para evitar um código muito extenso e deixar tudo mais organizado
+
 ClienteDAO clienteDAO = new ClienteDAO();
 FuncionarioDAO funcionarioDAO = new FuncionarioDAO();
 GeneroDAO generoDAO = new GeneroDAO();
